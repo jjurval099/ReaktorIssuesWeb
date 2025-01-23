@@ -122,6 +122,8 @@ body {
     font-size: 20px;
     margin-bottom: 20px;
     text-align: center;
+    color: #007bff;
+    font-weight: bold;
 }
 
 .cajas-formulario {
